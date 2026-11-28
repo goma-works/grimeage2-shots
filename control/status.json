@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:34:45 JST",
+ "at": "2026-11-28 20:35:48 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -19,17 +19,13 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 2594,
+   "mp": 2732,
    "maxMp": 3604,
-   "mpPct": 72
+   "mpPct": 75.8
   },
   "monsters": 7,
-  "target": {
-   "name": "Kroma Deadeye (Lv.46)\nDist: 43",
-   "hpPct": 42.3,
-   "state": "◎Targeting: Corrupted Man"
-  },
-  "targetSignal": "row-class"
+  "target": null,
+  "targetSignal": "none"
  },
  "assist": {
   "on": false,
