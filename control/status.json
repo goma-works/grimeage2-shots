@@ -1,28 +1,9 @@
 {
- "at": "2026-11-28 19:30:23 JST",
- "url": "https://grimeage2.com/game",
+ "at": "2026-11-28 19:31:56 JST",
+ "url": "https://grimeage2.com/",
  "polling": true,
- "lastCommand": {
-  "id": "20261128-183823",
-  "action": "ping",
-  "at": "2026-11-28 19:27:59 JST",
-  "ms": 18,
-  "result": {
-   "pong": true,
-   "state": {
-    "at": "2026-11-28 19:27:59 JST",
-    "url": "https://grimeage2.com/game",
-    "logFound": true,
-    "lastLogLines": [
-     "1",
-     "▼",
-     "47.68%"
-    ],
-    "hotbarSlots": 13
-   }
-  }
- },
+ "lastCommand": null,
  "extra": {
-  "heartbeat": true
+  "booted": true
  }
 }
