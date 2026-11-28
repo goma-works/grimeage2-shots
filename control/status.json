@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:37:48 JST",
+ "at": "2026-11-28 20:38:51 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -19,14 +19,14 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 2445,
+   "mp": 2062,
    "maxMp": 3604,
-   "mpPct": 67.8
+   "mpPct": 57.2
   },
   "monsters": 7,
   "target": {
-   "name": "Kroma Sentinel (Lv.46)\nDist: 34",
-   "hpPct": 71.3,
+   "name": "Kroma Golem (Lv.47)\nDist: 45",
+   "hpPct": 90.4,
    "state": "◎Targeting: Corrupted Man"
   },
   "targetSignal": "row-class"
