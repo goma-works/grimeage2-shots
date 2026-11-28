@@ -1,50 +1,170 @@
 {
- "at": "2026-11-28 20:02:35 JST",
+ "at": "2026-11-28 20:27:43 JST",
  "url": "https://grimeage2.com/game",
  "log": {
   "found": true,
-  "total": 600,
+  "total": 312,
   "lines": [
-   "Kroma Juggernaut (Lv.46)",
-   "Dist: 93",
-   "Idle",
-   "10,101 / 10,101",
-   "Kroma Golem (Lv.47)",
-   "Dist: 99",
-   "Idle",
-   "10,449 / 10,449",
-   "Players",
-   "No other players here",
-   "4",
-   "✚",
-   "4",
-   "1",
-   "23",
-   "2",
-   "M",
-   "Spike x8",
-   "3",
-   "40 MP",
-   "4",
-   "566 MP",
-   "5",
-   "46 MP",
-   "6",
-   "39 MP",
-   "7",
-   "600 HP",
-   "8",
-   "79 MP",
-   "9",
-   "19",
-   "0",
-   "Off",
-   "-",
-   "=",
-   "▲",
-   "1",
-   "▼",
-   "52.58%"
+   {
+    "text": "Corrupted Man hit Kroma Husk for 308 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 129 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 359 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 103 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 96 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 688 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Sentinel has appeared",
+    "cls": "info system"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 126 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 349 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 122 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 354 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 104 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 274 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 108 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 312 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 112 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "You used Death Spike on Kroma Husk and hit for 965 dmg",
+    "cls": "skill me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 112 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 368 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "You used Death Spike on Kroma Husk and hit for 815 dmg",
+    "cls": "skill me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 118 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 875 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "You used Death Spike on Kroma Husk and hit for 961 dmg",
+    "cls": "skill me"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 110 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 325 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "Kroma Husk resisted your Death Spike — 419 damage, 349 resisted",
+    "cls": "resist me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 97 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "You used Death Spike on Kroma Husk and hit for 763 dmg",
+    "cls": "skill me"
+   },
+   {
+    "text": "Corrupted Man hit Kroma Husk for 301 dmg",
+    "cls": "attack me"
+   },
+   {
+    "text": "Kroma Husk hit Corrupted Man for 108 dmg",
+    "cls": "attack hostile"
+   },
+   {
+    "text": "Casting Death Spike...",
+    "cls": "skill system"
+   },
+   {
+    "text": "You used Death Spike on Kroma Husk and hit for 914 dmg",
+    "cls": "skill me"
+   },
+   {
+    "text": "applied Untouched on",
+    "cls": "skill other"
+   },
+   {
+    "text": "Kroma Husk defeated! +21483 XP +49405 Gold",
+    "cls": "loot me"
+   }
   ]
  }
 }
