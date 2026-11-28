@@ -1,0 +1,44 @@
+{
+ "at": "2026-11-28 20:17:40 JST",
+ "url": "https://grimeage2.com/game",
+ "monsterRow": "<div data-v-4844eaf1=\"\" data-v-51de37b1=\"\" class=\"entity-row monster\"><img data-v-4844eaf1=\"\" src=\"/art/monsters/undead_archer.png/5020806f82.webp\" class=\"monster-icon\" width=\"32\" height=\"32\" alt=\"\" data-tip=\"\" aria-label=\"\"><!----><div data-v-4844eaf1=\"\" class=\"monster-info\"><div data-v-4844eaf1=\"\" class=\"monster-name-row\"><span data-v-4844eaf1=\"\" class=\"entity-name\" style=\"color: rgb(135, 206, 235);\"><!---->Kroma Deadeye (Lv.46) <!----></span><span data-v-4844eaf1=\"\" class=\"monster-dist\" data-tip=\"Distance\">Dist: 76</span></div><div data-v-4844eaf1=\"\" class=\"hp-bar-container\"><div data-v-4844eaf1=\"\" class=\"hp-bar\" style=\"width: 100%; background: var(--color-hp-hostile-muted);\"></div></div><div data-v-4844eaf1=\"\" class=\"monster-meta\"><span data-v-4844eaf1=\"\" class=\"monster-target monster-target--idle\">Idle</span><span data-v-4844eaf1=\"\" class=\"monster-hp-text\">10,101 / 10,101</span></div><!----></div></div>",
+ "petClassEls": [
+  "<div data-v-2b533915=\"\" data-v-10f0af8a=\"\" class=\"summon-stack\"><div data-v-2b533915=\"\" class=\"summon-frame\" data-tip=\"Click to target summon\"><div data-v-2b533915=\"\" class=\"summon-frame__avatar\"><img data-v-2b533915=\"\" src=\"/art/spells/summon-corrupted-man.png/cd60ac4f71.webp\" alt=\"Corrupted Man\" width=\"44\" height=\"44\"><!----></div><div data-v-2b533915=\"\" class=\"summon-frame__body\"><span data-v-2b533915=\"\" class=\"summon-frame__name\">Corrupted Man</span><div data-v-2b533915=\"\" class=\"summon-hp-bar bar hp-bar\"><div data-v-2b533915=\"\" class=\"bar-fill\" style=\"width: 90%; background: var(--color-hp-calm);\"></div><!----><span data-v-2b533915=\"\" class=\"bar-text\">7106 / 7869</span></div><!----><!----></div></div><!----></div>",
+  "<div data-v-2b533915=\"\" class=\"summon-frame\" data-tip=\"Click to target summon\"><div data-v-2b533915=\"\" class=\"summon-frame__avatar\"><img data-v-2b533915=\"\" src=\"/art/spells/summon-corrupted-man.png/cd60ac4f71.webp\" alt=\"Corrupted Man\" width=\"44\" height=\"44\"><!----></div><div data-v-2b533915=\"\" class=\"summon-frame__body\"><span data-v-2b533915=\"\" class=\"summon-frame__name\">Corrupted Man</span><div data-v-2b533915=\"\" class=\"summon-hp-bar bar hp-bar\"><div data-v-2b533915=\"\" class=\"bar-fill\" style=\"width: 90%; background: var(--color-hp-calm);\"></div><!----><span data-v-2b533915=\"\" class=\"bar-text\">7106 / 7869</span></div><!----><!----></div></div>",
+  "<div data-v-2b533915=\"\" class=\"summon-frame__avatar\"><img data-v-2b533915=\"\" src=\"/art/spells/summon-corrupted-man.png/cd60ac4f71.webp\" alt=\"Corrupted Man\" width=\"44\" height=\"44\"><!----></div>",
+  "<div data-v-2b533915=\"\" class=\"summon-frame__body\"><span data-v-2b533915=\"\" class=\"summon-frame__name\">Corrupted Man</span><div data-v-2b533915=\"\" class=\"summon-hp-bar bar hp-bar\"><div data-v-2b533915=\"\" class=\"bar-fill\" style=\"width: 90%; background: var(--color-hp-calm);\"></div><!----><span data-v-2b533915=\"\" class=\"bar-text\">7106 / 7869</span></div><!----><!----></div>",
+  "<span data-v-2b533915=\"\" class=\"summon-frame__name\">Corrupted Man</span>",
+  "<div data-v-2b533915=\"\" class=\"summon-hp-bar bar hp-bar\"><div data-v-2b533915=\"\" class=\"bar-fill\" style=\"width: 90%; background: var(--color-hp-calm);\"></div><!----><span data-v-2b533915=\"\" class=\"bar-text\">7106 / 7869</span></div>"
+ ],
+ "hpLikeEls": [
+  {
+   "cls": "next-step__count",
+   "text": "598/1000",
+   "x": 550,
+   "y": 14,
+   "score": 564
+  },
+  {
+   "cls": "bag-badge bag-badge--slots bag-badge--normal",
+   "text": "21/40",
+   "x": 943,
+   "y": 658,
+   "score": 1601
+  }
+ ],
+ "logParent": {
+  "tag": "DIV",
+  "cls": "log-entries",
+  "html": "<div data-v-59fdf3c0=\"\" class=\"log-entries\"><div data-v-59fdf3c0=\"\" class=\"log-entry info system\">Transfer Pain deactivated</div><!----></div>"
+ },
+ "targetEls": [
+  "<div data-v-45b44485=\"\" data-v-10f0af8a=\"\" class=\"player-stats-bar is-targetable\"><div data-v-45b44485=\"\" class=\"player-header\"><strong data-v-45b44485=\"\" class=\"player-name\">muse</strong><span data-v-45b44485=\"\" class=\"player-level\">Lv.50</span></div><div data-v-45b44485=\"\" class=\"player-body\"><div data-v-45b44485=\"\" class=\"avatar-frame avatar-frame--idle\"><img data-v-45b44485=\"\" src=\"/art/avatars/human_necromancer_female.png/7bba9be681.webp\" alt=\"Human Necromancer\" class=\"player-avatar\"><!----><!----><div data-v-4136bdb9=\"\" data-v-45b44485=\"\" class=\"combat-text-layer\" aria-hidden=\"true\"></div><div data-v-7acecc85=\"\" data-v-45b44485=\"\" class=\"heal-ring-layer\" aria-hidden=\"true\"></div><div data-v-8c272350=\"\" data-v-45b44485=\"\" class=\"target-marks-layer\" aria-hidden=\"true\"></div></div><div data-v-45b44485=\"\" class=\"bars-column\"><div data-v-45b44485=\"\" class=\"bar-row\"><div data-v-45b44485=\"\" class=\"bar hp-bar\"><div data-v-45b44485=\"\" class=\"bar-fill\" style=\"width: 100%; background: var(--color-hp-calm);\"></div><!----><!----><span data-v-45b44485=\"\" class=\"bar-text\">3025 / 3025</span><span data-v-45b44485=\"\" class=\"bar-pct\">100%</span></div></div><div data-v-45b44485=\"\" class=\"bar-row\"><div data-v-45b44485=\"\" class=\"bar mp-bar\"><div data-v-45b44485=\"\" class=\"bar-fill\" style=\"width: 99%;\"></div><!----><span data-v-45b44485=\"\" class=\"bar-text\">3577 / 3604</span><span data-v-45b44485=\"\" class=\"bar-pct\">99%</span></div></div><!----><!----><!----><!----><div data-v-45b44485=\"\" class=…[truncated]"
+ ],
+ "summary": {
+  "monsterRowFound": true,
+  "petClassEls": 6,
+  "hpLikeEls": 2,
+  "logParentFound": true,
+  "targetEls": 1
+ }
+}
