@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:46:45 JST",
+ "at": "2026-11-28 20:47:45 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -20,15 +20,15 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 3076,
+   "mp": 3267,
    "maxMp": 3604,
-   "mpPct": 85.3
+   "mpPct": 90.6
   },
   "pet": {
    "name": "Corrupted Man",
-   "hp": 4349,
+   "hp": 4609,
    "maxHp": 7869,
-   "hpPct": 55.3
+   "hpPct": 58.6
   },
   "monsters": 7,
   "target": null,
