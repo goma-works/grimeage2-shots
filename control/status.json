@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:23:24 JST",
+ "at": "2026-11-28 20:24:24 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -25,9 +25,9 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 3191,
+   "mp": 3181,
    "maxMp": 3604,
-   "mpPct": 88.5
+   "mpPct": 88.3
   },
   "monsters": 8,
   "target": null,
