@@ -1,19 +1,24 @@
 {
- "at": "2026-11-28 21:11:50 JST",
- "url": "https://grimeage2.com/characters",
+ "at": "2026-11-28 21:12:52 JST",
+ "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": null,
  "game": {
   "muse": {
-   "hp": null,
-   "maxHp": null,
-   "hpPct": null,
-   "mp": null,
-   "maxMp": null,
-   "mpPct": null
+   "hp": 3025,
+   "maxHp": 3025,
+   "hpPct": 100,
+   "mp": 3577,
+   "maxMp": 3604,
+   "mpPct": 99.3
   },
-  "pet": null,
-  "monsters": 0,
+  "pet": {
+   "name": "Corrupted Man",
+   "hp": 4900,
+   "maxHp": 7869,
+   "hpPct": 62.3
+  },
+  "monsters": 7,
   "target": null,
   "targetSignal": "none"
  },
@@ -22,6 +27,6 @@
   "log": []
  },
  "extra": {
-  "booted": true
+  "heartbeat": true
  }
 }
