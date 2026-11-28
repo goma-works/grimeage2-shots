@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:28:36 JST",
+ "at": "2026-11-28 20:30:39 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -19,13 +19,17 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 2322,
+   "mp": 3095,
    "maxMp": 3604,
-   "mpPct": 64.4
+   "mpPct": 85.9
   },
-  "monsters": 7,
-  "target": null,
-  "targetSignal": "none"
+  "monsters": 9,
+  "target": {
+   "name": "Kroma Juggernaut (Lv.46)\nDist: 35",
+   "hpPct": 76.9,
+   "state": "◎Targeting: Corrupted Man"
+  },
+  "targetSignal": "row-class"
  },
  "assist": {
   "on": false,
