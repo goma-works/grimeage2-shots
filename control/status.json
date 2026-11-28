@@ -1,19 +1,8 @@
 {
- "at": "2026-11-28 20:12:26 JST",
+ "at": "2026-11-28 20:14:08 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
- "lastCommand": {
-  "id": "20261128-195806",
-  "action": "getLog",
-  "at": "2026-11-28 20:02:37 JST",
-  "ms": 1821,
-  "result": {
-   "uploaded": true,
-   "found": true,
-   "lines": 40,
-   "error": null
-  }
- },
+ "lastCommand": null,
  "extra": {
   "heartbeat": true
  }
