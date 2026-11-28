@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 19:23:09 JST",
+ "at": "2026-11-28 19:24:11 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -15,5 +15,7 @@
    "error": null
   }
  },
- "extra": null
+ "extra": {
+  "heartbeat": true
+ }
 }
