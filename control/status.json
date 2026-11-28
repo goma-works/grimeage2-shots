@@ -1,18 +1,25 @@
 {
- "at": "2026-11-28 19:27:17 JST",
+ "at": "2026-11-28 19:28:17 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
-  "id": "manual-1795861386802",
-  "action": "probe",
-  "at": "2026-11-28 19:23:09 JST",
-  "ms": 2971,
+  "id": "20261128-183823",
+  "action": "ping",
+  "at": "2026-11-28 19:27:59 JST",
+  "ms": 18,
   "result": {
-   "uploaded": true,
-   "url": "https://github.com/goma-works/grimeage2-shots/blob/main/control/probe-latest.json",
-   "hotbarSlots": 13,
-   "logFound": true,
-   "error": null
+   "pong": true,
+   "state": {
+    "at": "2026-11-28 19:27:59 JST",
+    "url": "https://grimeage2.com/game",
+    "logFound": true,
+    "lastLogLines": [
+     "1",
+     "▼",
+     "47.68%"
+    ],
+    "hotbarSlots": 13
+   }
   }
  },
  "extra": {
