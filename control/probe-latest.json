@@ -1,0 +1,1544 @@
+{
+ "url": "https://grimeage2.com/game",
+ "title": "Grimeage II — Free Browser MMORPG Inspired by Lineage 2",
+ "at": "2026-11-28 19:23:06 JST",
+ "viewport": {
+  "w": 982,
+  "h": 679
+ },
+ "interactive": [
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 643,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 690,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 738,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 785,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 833,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 881,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn quick-action-btn--bag",
+   "text": "53%\n21/40",
+   "x": 928,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bag-badge bag-badge--slots bag-badge--normal",
+   "text": "21/40",
+   "x": 943,
+   "y": 658,
+   "w": 27,
+   "h": 10
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "39m 59s",
+   "x": 690,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "4",
+   "x": 738,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bag-badge bag-badge--slots",
+   "text": "4",
+   "x": 771,
+   "y": 607,
+   "w": 10,
+   "h": 10
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "UP",
+   "x": 785,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bag-badge bag-badge--slots bag-badge--in",
+   "text": "UP",
+   "x": 814,
+   "y": 607,
+   "w": 14,
+   "h": 10
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 833,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 881,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "quick-action-btn",
+   "text": "",
+   "x": 928,
+   "y": 575,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "chat-tab",
+   "text": "General",
+   "x": 15,
+   "y": 490,
+   "w": 53,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "chat-tab",
+   "text": "Trade",
+   "x": 69,
+   "y": 490,
+   "w": 41,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "chat-tab chat-tab--combat active",
+   "text": "Log",
+   "x": 112,
+   "y": 490,
+   "w": 31,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "chat-tab chat-settings-btn",
+   "text": "⚙",
+   "x": 145,
+   "y": 490,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "active",
+   "text": "All",
+   "x": 23,
+   "y": 520,
+   "w": 25,
+   "h": 13
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "Self",
+   "x": 49,
+   "y": 520,
+   "w": 27,
+   "h": 13
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "Target",
+   "x": 78,
+   "y": 520,
+   "w": 39,
+   "h": 13
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "Loot",
+   "x": 119,
+   "y": 520,
+   "w": 32,
+   "h": 13
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 807,
+   "y": 87,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 758,
+   "y": 84,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 807,
+   "y": 40,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 855,
+   "y": 84,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 779,
+   "y": 136,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pwm-node",
+   "text": "",
+   "x": 835,
+   "y": 136,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "wmm-btn",
+   "text": "",
+   "x": 924,
+   "y": 200,
+   "w": 21,
+   "h": 21
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "fav-toggle wmm-btn",
+   "text": "",
+   "x": 948,
+   "y": 200,
+   "w": 21,
+   "h": 21
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "next-step next-step--tracked",
+   "text": "➤\nNEXT\nSlay 1000 Ants in Ant Nest or it's surroundings\n598/1",
+   "x": 373,
+   "y": 9,
+   "w": 237,
+   "h": 24
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "show-on-map-btn",
+   "text": "Show on map",
+   "x": 67,
+   "y": 210,
+   "w": 69,
+   "h": 18
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "show-on-map-btn",
+   "text": "Show on map",
+   "x": 67,
+   "y": 289,
+   "w": 69,
+   "h": 18
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "settings-btn",
+   "text": "⚙",
+   "x": 947,
+   "y": 234,
+   "w": 20,
+   "h": 17
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "player-toggle-btn tap-compact",
+   "text": "",
+   "x": 928,
+   "y": 385,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "player-toggle-btn tap-compact",
+   "text": "",
+   "x": 949,
+   "y": 385,
+   "w": 18,
+   "h": 15
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pet-btn pet-btn--unmet",
+   "text": "",
+   "x": 192,
+   "y": 571,
+   "w": 25,
+   "h": 25
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "pet-icon lit-slot__icon",
+   "text": "",
+   "x": 193,
+   "y": 572,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pet-btn lit-slot",
+   "text": "",
+   "x": 220,
+   "y": 571,
+   "w": 25,
+   "h": 25
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "pet-icon lit-slot__icon",
+   "text": "",
+   "x": 221,
+   "y": 572,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pet-btn",
+   "text": "",
+   "x": 248,
+   "y": 571,
+   "w": 25,
+   "h": 25
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "pet-icon lit-slot__icon",
+   "text": "",
+   "x": 249,
+   "y": 572,
+   "w": 22,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "pet-btn pet-btn--skill lit-slot",
+   "text": "",
+   "x": 276,
+   "y": 571,
+   "w": 25,
+   "h": 25
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png lit-slot__icon",
+   "text": "",
+   "x": 277,
+   "y": 571,
+   "w": 24,
+   "h": 24
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "passive-points-chip",
+   "text": "✚\n4",
+   "x": 770,
+   "y": 575,
+   "w": 24,
+   "h": 24
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-bar-wrapper",
+   "text": "1\n24\n2\nM\nSpike x8\n3\n40 MP\n4\n566 MP\n5\n46 MP\n6\n39 MP\n7\n600 HP\n",
+   "x": 192,
+   "y": 606,
+   "w": 598,
+   "h": 52
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-bar skill-bar--expanded",
+   "text": "1\n24\n2\nM\nSpike x8\n3\n40 MP\n4\n566 MP\n5\n46 MP\n6\n39 MP\n7\n600 HP\n",
+   "x": 192,
+   "y": 606,
+   "w": 598,
+   "h": 52
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "1\n24",
+   "x": 218,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn item-btn",
+   "text": "1\n24",
+   "x": 218,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill",
+   "text": "",
+   "x": 219,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "slot-icon-img",
+   "text": "",
+   "x": 219,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost item-count",
+   "text": "24",
+   "x": 219,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "2\nM\nSpike x8",
+   "x": 266,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left macro-slot",
+   "text": "2\nM\nSpike x8",
+   "x": 266,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 266,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 266,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "3\n40 MP",
+   "x": 313,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "3\n40 MP",
+   "x": 313,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 314,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 314,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "40 MP",
+   "x": 314,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "4\n566 MP",
+   "x": 361,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "4\n566 MP",
+   "x": 361,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 361,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 361,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "566 MP",
+   "x": 361,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "5\n46 MP",
+   "x": 408,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "5\n46 MP",
+   "x": 408,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 409,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 409,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "46 MP",
+   "x": 409,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "6\n39 MP",
+   "x": 456,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "6\n39 MP",
+   "x": 456,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 457,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 457,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "39 MP",
+   "x": 457,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "7\n600 HP",
+   "x": 504,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "7\n600 HP",
+   "x": 504,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 504,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 504,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost skill-cost--hp",
+   "text": "600 HP",
+   "x": 504,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "8\n79 MP",
+   "x": 551,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left",
+   "text": "8\n79 MP",
+   "x": 551,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 552,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 552,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "79 MP",
+   "x": 552,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "9\n19",
+   "x": 599,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn item-btn",
+   "text": "9\n19",
+   "x": 599,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill",
+   "text": "",
+   "x": 599,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "slot-icon-img",
+   "text": "",
+   "x": 599,
+   "y": 610,
+   "w": 43,
+   "h": 43
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost item-count",
+   "text": "19",
+   "x": 599,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "0\nOff",
+   "x": 646,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn reach-dot reach-dot--left lit-slot",
+   "text": "0\nOff",
+   "x": 646,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-icon-fill lit-slot__icon",
+   "text": "",
+   "x": 648,
+   "y": 610,
+   "w": 42,
+   "h": 42
+  },
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 648,
+   "y": 610,
+   "w": 42,
+   "h": 42
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost",
+   "text": "Off",
+   "x": 648,
+   "y": 640,
+   "w": 42,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "-",
+   "x": 694,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn action-btn reach-dot reach-dot--left",
+   "text": "-",
+   "x": 694,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "action-icon lit-slot__icon",
+   "text": "",
+   "x": 705,
+   "y": 620,
+   "w": 22,
+   "h": 29
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "=",
+   "x": 742,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "skill-btn action-btn reach-dot reach-dot--left",
+   "text": "=",
+   "x": 742,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "action-icon lit-slot__icon",
+   "text": "",
+   "x": 753,
+   "y": 620,
+   "w": 22,
+   "h": 29
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "page-arrow",
+   "text": "▲",
+   "x": 196,
+   "y": 609,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "page-arrow",
+   "text": "▼",
+   "x": 196,
+   "y": 640,
+   "w": 18,
+   "h": 14
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "",
+   "x": 0,
+   "y": 413,
+   "w": 20,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "状態を送信",
+   "x": 805,
+   "y": 629,
+   "w": 80,
+   "h": 30
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "",
+   "text": "受信: ON",
+   "x": 891,
+   "y": 629,
+   "w": 68,
+   "h": 30
+  }
+ ],
+ "bars": [
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "bar-row",
+   "text": "3025 / 3025\n100%",
+   "x": 71,
+   "y": 33,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "bar hp-bar",
+   "text": "3025 / 3025\n100%",
+   "x": 71,
+   "y": 33,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bar-text",
+   "text": "3025 / 3025",
+   "x": 72,
+   "y": 34,
+   "w": 130,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "bar-row",
+   "text": "3586 / 3604\n100%",
+   "x": 71,
+   "y": 45,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "bar mp-bar",
+   "text": "3586 / 3604\n100%",
+   "x": 71,
+   "y": 45,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bar-text",
+   "text": "3586 / 3604",
+   "x": 72,
+   "y": 46,
+   "w": 130,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "rep-track rep-track--empty",
+   "text": "",
+   "x": 71,
+   "y": 57,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hud-widget",
+   "text": "53%\n21/40",
+   "x": 642,
+   "y": 624,
+   "w": 332,
+   "h": 46
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hud-widget__body",
+   "text": "53%\n21/40",
+   "x": 643,
+   "y": 625,
+   "w": 330,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "launcher-bar",
+   "text": "53%\n21/40",
+   "x": 643,
+   "y": 625,
+   "w": 330,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "dock-icon-btn",
+   "text": "53%\n21/40",
+   "x": 928,
+   "y": 625,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bag-badge bag-badge--slots bag-badge--normal",
+   "text": "21/40",
+   "x": 943,
+   "y": 658,
+   "w": 27,
+   "h": 10
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-empty",
+   "text": "No combat activity yet.",
+   "x": 22,
+   "y": 544,
+   "w": 256,
+   "h": 15
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hud-widget",
+   "text": "Corrupted Man\n7869 / 7869",
+   "x": 8,
+   "y": 92,
+   "w": 202,
+   "h": 38
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hud-widget__body",
+   "text": "Corrupted Man\n7869 / 7869",
+   "x": 9,
+   "y": 93,
+   "w": 200,
+   "h": 36
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "summon-stack",
+   "text": "Corrupted Man\n7869 / 7869",
+   "x": 9,
+   "y": 93,
+   "w": 200,
+   "h": 36
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "summon-frame",
+   "text": "Corrupted Man\n7869 / 7869",
+   "x": 9,
+   "y": 93,
+   "w": 200,
+   "h": 36
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "summon-frame__body",
+   "text": "Corrupted Man\n7869 / 7869",
+   "x": 48,
+   "y": 101,
+   "w": 158,
+   "h": 21
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "summon-hp-bar bar hp-bar",
+   "text": "7869 / 7869",
+   "x": 48,
+   "y": 112,
+   "w": 158,
+   "h": 10
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "bar-text",
+   "text": "7869 / 7869",
+   "x": 49,
+   "y": 113,
+   "w": 157,
+   "h": 8
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "next-step__count",
+   "text": "598/1000",
+   "x": 550,
+   "y": 14,
+   "w": 43,
+   "h": 14
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 272,
+   "w": 161,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 272,
+   "w": 161,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 277,
+   "w": 161,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 923,
+   "y": 277,
+   "w": 39,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 303,
+   "w": 161,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 303,
+   "w": 161,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 308,
+   "w": 161,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,449 / 10,449",
+   "x": 917,
+   "y": 308,
+   "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "skill-cost skill-cost--hp",
+   "text": "600 HP",
+   "x": 504,
+   "y": 641,
+   "w": 43,
+   "h": 13
+  }
+ ],
+ "logFound": true,
+ "logSample": [
+  "=",
+  "▲",
+  "1",
+  "▼",
+  "47.56%"
+ ],
+ "hotbarCount": 13,
+ "hotbar": [
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "1\n24",
+   "x": 218,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "2\nM\nSpike x8",
+   "x": 266,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "3\n40 MP",
+   "x": 313,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "4\n566 MP",
+   "x": 361,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "5\n46 MP",
+   "x": 408,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "6\n39 MP",
+   "x": 456,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "7\n600 HP",
+   "x": 504,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "8\n79 MP",
+   "x": 551,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "9\n19",
+   "x": 599,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "0\nOff",
+   "x": 646,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "-",
+   "x": 694,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "skill-slot",
+   "text": "=",
+   "x": 742,
+   "y": 609,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "page-nav page-nav--world",
+   "text": "▲\n1\n▼",
+   "x": 196,
+   "y": 609,
+   "w": 18,
+   "h": 45
+  }
+ ]
+}
