@@ -1,26 +1,21 @@
 {
- "at": "2026-11-28 21:57:07 JST",
+ "at": "2026-11-28 21:59:10 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": null,
  "game": {
   "muse": {
-   "hp": 0,
+   "hp": 3025,
    "maxHp": 3025,
-   "hpPct": 0,
-   "mp": 3337,
+   "hpPct": 100,
+   "mp": 3604,
    "maxMp": 3604,
-   "mpPct": 92.6
+   "mpPct": 100
   },
   "pet": null,
-  "monsters": 8,
-  "target": {
-   "name": "Kroma Juggernaut",
-   "hpPct": 100,
-   "dist": 25,
-   "targeting": null
-  },
-  "targetSignal": "target-panel"
+  "monsters": 0,
+  "target": null,
+  "targetSignal": "none"
  },
  "assist": {
   "on": false,
