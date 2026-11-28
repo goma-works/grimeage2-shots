@@ -1,9 +1,19 @@
 {
- "at": "2026-11-28 19:22:05 JST",
- "url": "https://grimeage2.com/",
+ "at": "2026-11-28 19:23:09 JST",
+ "url": "https://grimeage2.com/game",
  "polling": true,
- "lastCommand": null,
- "extra": {
-  "heartbeat": true
- }
+ "lastCommand": {
+  "id": "manual-1795861386802",
+  "action": "probe",
+  "at": "2026-11-28 19:23:09 JST",
+  "ms": 2971,
+  "result": {
+   "uploaded": true,
+   "url": "https://github.com/goma-works/grimeage2-shots/blob/main/control/probe-latest.json",
+   "hotbarSlots": 13,
+   "logFound": true,
+   "error": null
+  }
+ },
+ "extra": null
 }
