@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:57:00 JST",
+ "at": "2026-11-28 20:58:00 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -20,21 +20,21 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 2084,
+   "mp": 2068,
    "maxMp": 3604,
-   "mpPct": 57.8
+   "mpPct": 57.4
   },
   "pet": {
    "name": "Corrupted Man",
-   "hp": 7219,
+   "hp": 5431,
    "maxHp": 7869,
-   "hpPct": 91.7
+   "hpPct": 69
   },
-  "monsters": 7,
+  "monsters": 6,
   "target": {
-   "name": "Kroma Juggernaut",
-   "hpPct": 79,
-   "dist": 39,
+   "name": "Kroma Deadeye",
+   "hpPct": 83,
+   "dist": 47,
    "targeting": "Corrupted Man"
   },
   "targetSignal": "target-panel"
