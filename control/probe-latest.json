@@ -1,7 +1,7 @@
 {
  "url": "https://grimeage2.com/game",
  "title": "Grimeage II — Free Browser MMORPG Inspired by Lineage 2",
- "at": "2026-11-28 20:16:59 JST",
+ "at": "2026-11-28 20:40:53 JST",
  "viewport": {
   "w": 982,
   "h": 679
@@ -101,7 +101,7 @@
    "tag": "BUTTON",
    "id": "",
    "cls": "quick-action-btn",
-   "text": "58m 36s",
+   "text": "34m 42s",
    "x": 690,
    "y": 575,
    "w": 45,
@@ -255,6 +255,16 @@
    "x": 119,
    "y": 520,
    "w": 32,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill other",
+   "text": "applied Untouched on",
+   "x": 22,
+   "y": 596,
+   "w": 256,
    "h": 13
   },
   {
@@ -1163,7 +1173,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar-row",
-   "text": "3595 / 3604\n100%",
+   "text": "2456 / 3604\n68%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1173,7 +1183,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar mp-bar",
-   "text": "3595 / 3604\n100%",
+   "text": "2456 / 3604\n68%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1183,7 +1193,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "3595 / 3604",
+   "text": "2456 / 3604",
    "x": 72,
    "y": 46,
    "w": 130,
@@ -1252,18 +1262,8 @@
   {
    "tag": "DIV",
    "id": "",
-   "cls": "log-empty",
-   "text": "No combat activity yet.",
-   "x": 22,
-   "y": 544,
-   "w": 256,
-   "h": 15
-  },
-  {
-   "tag": "DIV",
-   "id": "",
    "cls": "hud-widget",
-   "text": "Corrupted Man\n6937 / 7869",
+   "text": "Corrupted Man\n4561 / 7869",
    "x": 8,
    "y": 92,
    "w": 202,
@@ -1273,7 +1273,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "hud-widget__body",
-   "text": "Corrupted Man\n6937 / 7869",
+   "text": "Corrupted Man\n4561 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1283,7 +1283,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-stack",
-   "text": "Corrupted Man\n6937 / 7869",
+   "text": "Corrupted Man\n4561 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1293,7 +1293,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-frame",
-   "text": "Corrupted Man\n6937 / 7869",
+   "text": "Corrupted Man\n4561 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1303,7 +1303,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-frame__body",
-   "text": "Corrupted Man\n6937 / 7869",
+   "text": "Corrupted Man\n4561 / 7869",
    "x": 48,
    "y": 101,
    "w": 158,
@@ -1313,7 +1313,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-hp-bar bar hp-bar",
-   "text": "6937 / 7869",
+   "text": "4561 / 7869",
    "x": 48,
    "y": 112,
    "w": 158,
@@ -1323,7 +1323,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "6937 / 7869",
+   "text": "4561 / 7869",
    "x": 49,
    "y": 113,
    "w": 157,
@@ -1403,89 +1403,9 @@
    "tag": "DIV",
    "id": "",
    "cls": "monster-meta",
-   "text": "Idle\n10,101 / 10,101",
-   "x": 801,
-   "y": 308,
-   "w": 154,
-   "h": 9
-  },
-  {
-   "tag": "SPAN",
-   "id": "",
-   "cls": "monster-hp-text",
-   "text": "10,101 / 10,101",
-   "x": 916,
-   "y": 308,
-   "w": 39,
-   "h": 8
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hp-bar-container",
-   "text": "",
-   "x": 801,
-   "y": 335,
-   "w": 154,
-   "h": 4
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hp-bar",
-   "text": "",
-   "x": 801,
-   "y": 335,
-   "w": 154,
-   "h": 4
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "monster-meta",
-   "text": "Idle\n10,101 / 10,101",
-   "x": 801,
-   "y": 340,
-   "w": 154,
-   "h": 9
-  },
-  {
-   "tag": "SPAN",
-   "id": "",
-   "cls": "monster-hp-text",
-   "text": "10,101 / 10,101",
-   "x": 916,
-   "y": 340,
-   "w": 39,
-   "h": 8
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hp-bar-container",
-   "text": "",
-   "x": 801,
-   "y": 366,
-   "w": 154,
-   "h": 4
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hp-bar",
-   "text": "",
-   "x": 801,
-   "y": 366,
-   "w": 154,
-   "h": 4
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "monster-meta",
    "text": "Idle\n10,449 / 10,449",
    "x": 801,
-   "y": 371,
+   "y": 308,
    "w": 154,
    "h": 9
   },
@@ -1495,8 +1415,88 @@
    "cls": "monster-hp-text",
    "text": "10,449 / 10,449",
    "x": 910,
-   "y": 371,
+   "y": 308,
    "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 340,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,449 / 10,449",
+   "x": 910,
+   "y": 340,
+   "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 371,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 371,
+   "w": 39,
    "h": 8
   },
   {
@@ -1580,6 +1580,46 @@
    "h": 8
   },
   {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 461,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 461,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 466,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 466,
+   "w": 39,
+   "h": 8
+  },
+  {
    "tag": "SPAN",
    "id": "",
    "cls": "skill-cost skill-cost--hp",
@@ -1592,11 +1632,11 @@
  ],
  "logFound": true,
  "logSample": [
-  "=",
-  "▲",
-  "1",
-  "▼",
-  "55.10%"
+  "Corrupted Man hit Kroma Golem for 260 dmg",
+  "Kroma Golem hit Corrupted Man for 112 dmg",
+  "Corrupted Man hit Kroma Golem for 571 dmg",
+  "applied Untouched on",
+  "Kroma Golem defeated! +20330 XP +39454 Gold"
  ],
  "hotbarCount": 13,
  "hotbar": [
