@@ -1,49 +1,27 @@
 {
- "at": "2026-11-28 21:03:12 JST",
- "url": "https://grimeage2.com/game",
+ "at": "2026-11-28 21:11:50 JST",
+ "url": "https://grimeage2.com/characters",
  "polling": true,
- "lastCommand": {
-  "id": "manual-1795866053787",
-  "action": "probe",
-  "at": "2026-11-28 20:40:55 JST",
-  "ms": 1573,
-  "result": {
-   "uploaded": true,
-   "url": "https://github.com/goma-works/grimeage2-shots/blob/main/control/probe-latest.json",
-   "hotbarSlots": 13,
-   "logFound": true,
-   "error": null
-  }
- },
+ "lastCommand": null,
  "game": {
   "muse": {
-   "hp": 3025,
-   "maxHp": 3025,
-   "hpPct": 100,
-   "mp": 2352,
-   "maxMp": 3604,
-   "mpPct": 65.3
+   "hp": null,
+   "maxHp": null,
+   "hpPct": null,
+   "mp": null,
+   "maxMp": null,
+   "mpPct": null
   },
-  "pet": {
-   "name": "Corrupted Man",
-   "hp": 6666,
-   "maxHp": 7869,
-   "hpPct": 84.7
-  },
-  "monsters": 6,
-  "target": {
-   "name": "Kroma Deadeye",
-   "hpPct": 100,
-   "dist": 61,
-   "targeting": null
-  },
-  "targetSignal": "target-panel"
+  "pet": null,
+  "monsters": 0,
+  "target": null,
+  "targetSignal": "none"
  },
  "assist": {
   "on": false,
   "log": []
  },
  "extra": {
-  "heartbeat": true
+  "booted": true
  }
 }
