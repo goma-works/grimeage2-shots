@@ -1,9 +1,9 @@
 {
- "at": "2026-11-28 19:31:56 JST",
- "url": "https://grimeage2.com/",
+ "at": "2026-11-28 19:33:02 JST",
+ "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": null,
  "extra": {
-  "booted": true
+  "heartbeat": true
  }
 }
