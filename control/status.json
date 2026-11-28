@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28 20:18:12 JST",
+ "at": "2026-11-28 20:19:12 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
@@ -25,13 +25,17 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 3595,
+   "mp": 3577,
    "maxMp": 3604,
-   "mpPct": 99.8
+   "mpPct": 99.3
   },
   "monsters": 6,
-  "target": null,
-  "targetSignal": "none"
+  "target": {
+   "name": "Kroma Deadeye (Lv.46)\nDist: 76",
+   "hpPct": 100,
+   "state": "Idle"
+  },
+  "targetSignal": "row-class"
  },
  "assist": {
   "on": false,
