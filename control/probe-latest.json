@@ -1,7 +1,7 @@
 {
  "url": "https://grimeage2.com/game",
  "title": "Grimeage II — Free Browser MMORPG Inspired by Lineage 2",
- "at": "2026-11-28 19:33:08 JST",
+ "at": "2026-11-28 19:49:07 JST",
  "viewport": {
   "w": 982,
   "h": 679
@@ -101,7 +101,7 @@
    "tag": "BUTTON",
    "id": "",
    "cls": "quick-action-btn",
-   "text": "29m 57s",
+   "text": "13m 58s",
    "x": 690,
    "y": 575,
    "w": 45,
@@ -258,6 +258,126 @@
    "h": 13
   },
   {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill system",
+   "text": "Casting Death Spike...",
+   "x": 22,
+   "y": 293,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill me",
+   "text": "You used Death Spike on Kroma Golem and hit for 926 dmg",
+   "x": 22,
+   "y": 319,
+   "w": 252,
+   "h": 25
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill system",
+   "text": "Casting Death Spike...",
+   "x": 22,
+   "y": 344,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill me",
+   "text": "You used Death Spike on Kroma Golem and hit for 1082 dmg",
+   "x": 22,
+   "y": 397,
+   "w": 252,
+   "h": 25
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill system",
+   "text": "Casting Death Spike...",
+   "x": 22,
+   "y": 422,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill me",
+   "text": "You used Death Spike on Kroma Golem and hit for 943 dmg",
+   "x": 22,
+   "y": 461,
+   "w": 252,
+   "h": 25
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill system",
+   "text": "Casting Death Spike...",
+   "x": 22,
+   "y": 486,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill me",
+   "text": "You used Death Spike on Kroma Golem and hit for 1006 dmg",
+   "x": 22,
+   "y": 513,
+   "w": 252,
+   "h": 25
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill system",
+   "text": "Casting Death Spike...",
+   "x": 22,
+   "y": 537,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill me",
+   "text": "You used Death Spike on Kroma Golem and hit for 936 dmg",
+   "x": 22,
+   "y": 564,
+   "w": 252,
+   "h": 25
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill other",
+   "text": "applied Untouched on",
+   "x": 22,
+   "y": 589,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "chat-item-chip common",
+   "text": "[Map Shard]",
+   "x": 50,
+   "y": 616,
+   "w": 52,
+   "h": 11
+  },
+  {
    "tag": "BUTTON",
    "id": "",
    "cls": "pwm-node",
@@ -353,7 +473,7 @@
    "cls": "show-on-map-btn",
    "text": "Show on map",
    "x": 67,
-   "y": 210,
+   "y": 168,
    "w": 69,
    "h": 18
   },
@@ -363,7 +483,7 @@
    "cls": "show-on-map-btn",
    "text": "Show on map",
    "x": 67,
-   "y": 289,
+   "y": 248,
    "w": 69,
    "h": 18
   },
@@ -396,86 +516,6 @@
    "y": 385,
    "w": 18,
    "h": 15
-  },
-  {
-   "tag": "BUTTON",
-   "id": "",
-   "cls": "pet-btn pet-btn--unmet",
-   "text": "",
-   "x": 192,
-   "y": 571,
-   "w": 25,
-   "h": 25
-  },
-  {
-   "tag": "IMG",
-   "id": "",
-   "cls": "pet-icon lit-slot__icon",
-   "text": "",
-   "x": 193,
-   "y": 572,
-   "w": 22,
-   "h": 22
-  },
-  {
-   "tag": "BUTTON",
-   "id": "",
-   "cls": "pet-btn lit-slot",
-   "text": "",
-   "x": 220,
-   "y": 571,
-   "w": 25,
-   "h": 25
-  },
-  {
-   "tag": "IMG",
-   "id": "",
-   "cls": "pet-icon lit-slot__icon",
-   "text": "",
-   "x": 221,
-   "y": 572,
-   "w": 22,
-   "h": 22
-  },
-  {
-   "tag": "BUTTON",
-   "id": "",
-   "cls": "pet-btn",
-   "text": "",
-   "x": 248,
-   "y": 571,
-   "w": 25,
-   "h": 25
-  },
-  {
-   "tag": "IMG",
-   "id": "",
-   "cls": "pet-icon lit-slot__icon",
-   "text": "",
-   "x": 249,
-   "y": 572,
-   "w": 22,
-   "h": 22
-  },
-  {
-   "tag": "BUTTON",
-   "id": "",
-   "cls": "pet-btn pet-btn--skill lit-slot",
-   "text": "",
-   "x": 276,
-   "y": 571,
-   "w": 25,
-   "h": 25
-  },
-  {
-   "tag": "IMG",
-   "id": "",
-   "cls": "skill-icon-png lit-slot__icon",
-   "text": "",
-   "x": 277,
-   "y": 571,
-   "w": 24,
-   "h": 24
   },
   {
    "tag": "BUTTON",
@@ -1153,7 +1193,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar-row",
-   "text": "3577 / 3604\n99%",
+   "text": "2322 / 3604\n64%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1163,7 +1203,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar mp-bar",
-   "text": "3577 / 3604\n99%",
+   "text": "2322 / 3604\n64%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1173,7 +1213,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "3577 / 3604",
+   "text": "2322 / 3604",
    "x": 72,
    "y": 46,
    "w": 130,
@@ -1240,86 +1280,6 @@
    "h": 10
   },
   {
-   "tag": "DIV",
-   "id": "",
-   "cls": "log-empty",
-   "text": "No combat activity yet.",
-   "x": 22,
-   "y": 544,
-   "w": 256,
-   "h": 15
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hud-widget",
-   "text": "Corrupted Man\n6157 / 7869",
-   "x": 8,
-   "y": 92,
-   "w": 202,
-   "h": 38
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "hud-widget__body",
-   "text": "Corrupted Man\n6157 / 7869",
-   "x": 9,
-   "y": 93,
-   "w": 200,
-   "h": 36
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "summon-stack",
-   "text": "Corrupted Man\n6157 / 7869",
-   "x": 9,
-   "y": 93,
-   "w": 200,
-   "h": 36
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "summon-frame",
-   "text": "Corrupted Man\n6157 / 7869",
-   "x": 9,
-   "y": 93,
-   "w": 200,
-   "h": 36
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "summon-frame__body",
-   "text": "Corrupted Man\n6157 / 7869",
-   "x": 48,
-   "y": 101,
-   "w": 158,
-   "h": 21
-  },
-  {
-   "tag": "DIV",
-   "id": "",
-   "cls": "summon-hp-bar bar hp-bar",
-   "text": "6157 / 7869",
-   "x": 48,
-   "y": 112,
-   "w": 158,
-   "h": 10
-  },
-  {
-   "tag": "SPAN",
-   "id": "",
-   "cls": "bar-text",
-   "text": "6157 / 7869",
-   "x": 49,
-   "y": 113,
-   "w": 157,
-   "h": 8
-  },
-  {
    "tag": "SPAN",
    "id": "",
    "cls": "next-step__count",
@@ -1353,9 +1313,129 @@
    "tag": "DIV",
    "id": "",
    "cls": "monster-meta",
-   "text": "Idle\n10,449 / 10,449",
+   "text": "Idle\n10,101 / 10,101",
    "x": 801,
    "y": 277,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 277,
+   "w": 39,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 303,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 303,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 308,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 308,
+   "w": 39,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 340,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 340,
+   "w": 39,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 371,
    "w": 154,
    "h": 9
   },
@@ -1365,7 +1445,7 @@
    "cls": "monster-hp-text",
    "text": "10,449 / 10,449",
    "x": 910,
-   "y": 277,
+   "y": 371,
    "w": 45,
    "h": 8
   },
@@ -1375,7 +1455,7 @@
    "cls": "hp-bar-container",
    "text": "",
    "x": 801,
-   "y": 303,
+   "y": 398,
    "w": 154,
    "h": 4
   },
@@ -1385,7 +1465,47 @@
    "cls": "hp-bar",
    "text": "",
    "x": 801,
-   "y": 303,
+   "y": 398,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 403,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,449 / 10,449",
+   "x": 910,
+   "y": 403,
+   "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 429,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 429,
    "w": 154,
    "h": 4
   },
@@ -1395,7 +1515,7 @@
    "cls": "monster-meta",
    "text": "Idle\n10,101 / 10,101",
    "x": 801,
-   "y": 308,
+   "y": 434,
    "w": 154,
    "h": 9
   },
@@ -1405,7 +1525,7 @@
    "cls": "monster-hp-text",
    "text": "10,101 / 10,101",
    "x": 916,
-   "y": 308,
+   "y": 435,
    "w": 39,
    "h": 8
   },
@@ -1415,7 +1535,7 @@
    "cls": "hp-bar-container",
    "text": "",
    "x": 801,
-   "y": 335,
+   "y": 461,
    "w": 154,
    "h": 4
   },
@@ -1425,7 +1545,47 @@
    "cls": "hp-bar",
    "text": "",
    "x": 801,
-   "y": 335,
+   "y": 461,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 466,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,449 / 10,449",
+   "x": 910,
+   "y": 466,
+   "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 492,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 492,
    "w": 154,
    "h": 4
   },
@@ -1435,7 +1595,7 @@
    "cls": "monster-meta",
    "text": "Idle\n10,101 / 10,101",
    "x": 801,
-   "y": 340,
+   "y": 497,
    "w": 154,
    "h": 9
   },
@@ -1445,7 +1605,7 @@
    "cls": "monster-hp-text",
    "text": "10,101 / 10,101",
    "x": 916,
-   "y": 340,
+   "y": 498,
    "w": 39,
    "h": 8
   },
@@ -1455,7 +1615,7 @@
    "cls": "hp-bar-container",
    "text": "",
    "x": 801,
-   "y": 366,
+   "y": 524,
    "w": 154,
    "h": 4
   },
@@ -1465,7 +1625,7 @@
    "cls": "hp-bar",
    "text": "",
    "x": 801,
-   "y": 366,
+   "y": 524,
    "w": 154,
    "h": 4
   },
@@ -1475,7 +1635,7 @@
    "cls": "monster-meta",
    "text": "Idle\n10,101 / 10,101",
    "x": 801,
-   "y": 371,
+   "y": 529,
    "w": 154,
    "h": 9
   },
@@ -1485,7 +1645,7 @@
    "cls": "monster-hp-text",
    "text": "10,101 / 10,101",
    "x": 916,
-   "y": 371,
+   "y": 529,
    "w": 39,
    "h": 8
   },
@@ -1506,7 +1666,7 @@
   "▲",
   "1",
   "▼",
-  "48.05%"
+  "50.97%"
  ],
  "hotbarCount": 13,
  "hotbar": [
