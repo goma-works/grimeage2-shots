@@ -1,17 +1,23 @@
 {
- "at": "2026-11-28 20:17:12 JST",
+ "at": "2026-11-28 20:18:12 JST",
  "url": "https://grimeage2.com/game",
  "polling": true,
  "lastCommand": {
-  "id": "20261128-195806",
-  "action": "getLog",
-  "at": "2026-11-28 20:17:05 JST",
-  "ms": 4417,
+  "id": "20261128-201357",
+  "action": "deepProbe",
+  "at": "2026-11-28 20:17:41 JST",
+  "ms": 1470,
   "result": {
-   "uploaded": false,
-   "found": true,
-   "lines": 40,
-   "error": "GitHub upload failed: 409 is at 83d1f52fbbcd8dc1cc6c36af94eb2dcbacee9d55 but expected 633fda5f457aa57754af5e993901ea3a84d6cbbe"
+   "uploaded": true,
+   "url": "https://github.com/goma-works/grimeage2-shots/blob/main/control/deep-latest.json",
+   "summary": {
+    "monsterRowFound": true,
+    "petClassEls": 6,
+    "hpLikeEls": 2,
+    "logParentFound": true,
+    "targetEls": 1
+   },
+   "error": null
   }
  },
  "game": {
@@ -19,9 +25,9 @@
    "hp": 3025,
    "maxHp": 3025,
    "hpPct": 100,
-   "mp": 3577,
+   "mp": 3595,
    "maxMp": 3604,
-   "mpPct": 99.3
+   "mpPct": 99.8
   },
   "monsters": 6,
   "target": null,
