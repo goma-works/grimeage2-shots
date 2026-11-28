@@ -1,12 +1,22 @@
 {
  "url": "https://grimeage2.com/game",
  "title": "Grimeage II — Free Browser MMORPG Inspired by Lineage 2",
- "at": "2026-11-28 19:23:06 JST",
+ "at": "2026-11-28 19:27:56 JST",
  "viewport": {
   "w": 982,
   "h": 679
  },
  "interactive": [
+  {
+   "tag": "IMG",
+   "id": "",
+   "cls": "skill-icon-png",
+   "text": "",
+   "x": 699,
+   "y": 10,
+   "w": 24,
+   "h": 24
+  },
   {
    "tag": "BUTTON",
    "id": "",
@@ -91,7 +101,7 @@
    "tag": "BUTTON",
    "id": "",
    "cls": "quick-action-btn",
-   "text": "39m 59s",
+   "text": "35m 9s",
    "x": 690,
    "y": 575,
    "w": 45,
@@ -248,6 +258,36 @@
    "h": 13
   },
   {
+   "tag": "DIV",
+   "id": "",
+   "cls": "log-entry skill other",
+   "text": "applied Untouched on",
+   "x": 22,
+   "y": 603,
+   "w": 252,
+   "h": 13
+  },
+  {
+   "tag": "BUTTON",
+   "id": "",
+   "cls": "close-btn",
+   "text": "×",
+   "x": 410,
+   "y": 15,
+   "w": 12,
+   "h": 14
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "tcb-slot",
+   "text": "",
+   "x": 290,
+   "y": 59,
+   "w": 79,
+   "h": 13
+  },
+  {
    "tag": "BUTTON",
    "id": "",
    "cls": "pwm-node",
@@ -390,7 +430,7 @@
   {
    "tag": "BUTTON",
    "id": "",
-   "cls": "pet-btn pet-btn--unmet",
+   "cls": "pet-btn",
    "text": "",
    "x": 192,
    "y": 571,
@@ -1103,7 +1143,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar-row",
-   "text": "3025 / 3025\n100%",
+   "text": "2195 / 3025\n73%",
    "x": 71,
    "y": 33,
    "w": 132,
@@ -1113,7 +1153,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar hp-bar",
-   "text": "3025 / 3025\n100%",
+   "text": "2195 / 3025\n73%",
    "x": 71,
    "y": 33,
    "w": 132,
@@ -1123,7 +1163,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "3025 / 3025",
+   "text": "2195 / 3025",
    "x": 72,
    "y": 34,
    "w": 130,
@@ -1133,7 +1173,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar-row",
-   "text": "3586 / 3604\n100%",
+   "text": "3595 / 3604\n100%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1143,7 +1183,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "bar mp-bar",
-   "text": "3586 / 3604\n100%",
+   "text": "3595 / 3604\n100%",
    "x": 71,
    "y": 45,
    "w": 132,
@@ -1153,7 +1193,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "3586 / 3604",
+   "text": "3595 / 3604",
    "x": 72,
    "y": 46,
    "w": 130,
@@ -1222,18 +1262,68 @@
   {
    "tag": "DIV",
    "id": "",
-   "cls": "log-empty",
-   "text": "No combat activity yet.",
-   "x": 22,
-   "y": 544,
-   "w": 256,
-   "h": 15
+   "cls": "target-body target-body--top",
+   "text": "10101/10101\n100%",
+   "x": 234,
+   "y": 32,
+   "w": 188,
+   "h": 50
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "target-content",
+   "text": "10101/10101\n100%",
+   "x": 290,
+   "y": 32,
+   "w": 132,
+   "h": 39
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "10101/10101\n100%",
+   "x": 290,
+   "y": 34,
+   "w": 132,
+   "h": 10
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 291,
+   "y": 34,
+   "w": 130,
+   "h": 8
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "hp-text",
+   "text": "10101/10101",
+   "x": 332,
+   "y": 34,
+   "w": 48,
+   "h": 10
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "hp-pct",
+   "text": "100%",
+   "x": 400,
+   "y": 34,
+   "w": 17,
+   "h": 10
   },
   {
    "tag": "DIV",
    "id": "",
    "cls": "hud-widget",
-   "text": "Corrupted Man\n7869 / 7869",
+   "text": "Corrupted Man\n3990 / 7869",
    "x": 8,
    "y": 92,
    "w": 202,
@@ -1243,7 +1333,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "hud-widget__body",
-   "text": "Corrupted Man\n7869 / 7869",
+   "text": "Corrupted Man\n3990 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1253,7 +1343,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-stack",
-   "text": "Corrupted Man\n7869 / 7869",
+   "text": "Corrupted Man\n3990 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1263,7 +1353,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-frame",
-   "text": "Corrupted Man\n7869 / 7869",
+   "text": "Corrupted Man\n3990 / 7869",
    "x": 9,
    "y": 93,
    "w": 200,
@@ -1273,7 +1363,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-frame__body",
-   "text": "Corrupted Man\n7869 / 7869",
+   "text": "Corrupted Man\n3990 / 7869",
    "x": 48,
    "y": 101,
    "w": 158,
@@ -1283,7 +1373,7 @@
    "tag": "DIV",
    "id": "",
    "cls": "summon-hp-bar bar hp-bar",
-   "text": "7869 / 7869",
+   "text": "3990 / 7869",
    "x": 48,
    "y": 112,
    "w": 158,
@@ -1293,7 +1383,7 @@
    "tag": "SPAN",
    "id": "",
    "cls": "bar-text",
-   "text": "7869 / 7869",
+   "text": "3990 / 7869",
    "x": 49,
    "y": 113,
    "w": 157,
@@ -1316,7 +1406,7 @@
    "text": "",
    "x": 801,
    "y": 272,
-   "w": 161,
+   "w": 154,
    "h": 4
   },
   {
@@ -1326,7 +1416,7 @@
    "text": "",
    "x": 801,
    "y": 272,
-   "w": 161,
+   "w": 154,
    "h": 4
   },
   {
@@ -1336,7 +1426,7 @@
    "text": "Idle\n10,101 / 10,101",
    "x": 801,
    "y": 277,
-   "w": 161,
+   "w": 154,
    "h": 9
   },
   {
@@ -1344,7 +1434,7 @@
    "id": "",
    "cls": "monster-hp-text",
    "text": "10,101 / 10,101",
-   "x": 923,
+   "x": 916,
    "y": 277,
    "w": 39,
    "h": 8
@@ -1356,7 +1446,7 @@
    "text": "",
    "x": 801,
    "y": 303,
-   "w": 161,
+   "w": 154,
    "h": 4
   },
   {
@@ -1366,7 +1456,7 @@
    "text": "",
    "x": 801,
    "y": 303,
-   "w": 161,
+   "w": 154,
    "h": 4
   },
   {
@@ -1376,7 +1466,7 @@
    "text": "Idle\n10,449 / 10,449",
    "x": 801,
    "y": 308,
-   "w": 161,
+   "w": 154,
    "h": 9
   },
   {
@@ -1384,9 +1474,129 @@
    "id": "",
    "cls": "monster-hp-text",
    "text": "10,449 / 10,449",
-   "x": 917,
+   "x": 910,
    "y": 308,
    "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 335,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,449 / 10,449",
+   "x": 801,
+   "y": 340,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,449 / 10,449",
+   "x": 910,
+   "y": 340,
+   "w": 45,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 366,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 371,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 371,
+   "w": 39,
+   "h": 8
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar-container",
+   "text": "",
+   "x": 801,
+   "y": 398,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "hp-bar",
+   "text": "",
+   "x": 801,
+   "y": 398,
+   "w": 154,
+   "h": 4
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "monster-meta",
+   "text": "Idle\n10,101 / 10,101",
+   "x": 801,
+   "y": 403,
+   "w": 154,
+   "h": 9
+  },
+  {
+   "tag": "SPAN",
+   "id": "",
+   "cls": "monster-hp-text",
+   "text": "10,101 / 10,101",
+   "x": 916,
+   "y": 403,
+   "w": 39,
    "h": 8
   },
   {
@@ -1406,7 +1616,7 @@
   "▲",
   "1",
   "▼",
-  "47.56%"
+  "47.68%"
  ],
  "hotbarCount": 13,
  "hotbar": [
